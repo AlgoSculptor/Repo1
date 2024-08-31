@@ -1,0 +1,44 @@
+/* admin.css */
+
+/* Navbar styles */
+.navbar {
+    background-color: #f8f9fa; /* Light gray background */
+    padding: 1rem; /* Padding around navbar */
+}
+
+.navbar-brand {
+    color: #007bff; /* Blue color for brand */
+    font-weight: bold; /* Bold font for brand */
+}
+
+.nav-link {
+    color: #333; /* Dark gray color for links */
+}
+
+/* Container styles */
+.container {
+    margin-top: 2rem; /* Add space from the top */
+}
+
+/* Button styles */
+.btn {
+    margin-right: 0.5rem; /* Add some spacing between buttons */
+}
+
+/* Table styles */
+.table {
+    margin-top: 1rem; /* Add space above the table */
+}
+
+/* Form styles */
+.form-group {
+    margin-bottom: 1rem; /* Add space between form groups */
+}
+
+/* Footer styles */
+.footer {
+    margin-top: 2rem; /* Add space from the content */
+    background-color: #343a40; /* Dark background for footer */
+    color: #fff; /* White text color */
+    padding: 1rem; /* Padding inside footer */
+}
